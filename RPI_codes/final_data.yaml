@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/final_dataset_for_signs_model/update database 08.2025/yolo_format/train
+val:   /content/drive/MyDrive/final_dataset_for_signs_model/update database 08.2025/yolo_format/test
+test:  /content/drive/MyDrive/final_dataset_for_signs_model/update database 08.2025/yolo_format/test
+nc: 5
+names: [red_light, green_light, yellow_light, crosswalk_sign , stop_sign ]
